@@ -1,5 +1,5 @@
 import java.util.*;
-class Question5a {
+public class Question5a {
 	public static void main(String[] args) {
 		Scanner keyboard = new Scanner(System.in);
 		System.out.print("Enter a number to refelct a month of the year: ");
